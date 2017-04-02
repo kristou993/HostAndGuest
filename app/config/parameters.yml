@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: guest
+    database_user: root
+    database_password: null
+    mailer_transport: gmail
+    mailer_host: 127.0.0.1
+    mailer_user: hostandguest4@gmail.com
+    mailer_password: esprit2250
+    secret: 63364004e93231b7135eef0db9d810f5557d7299
